@@ -7,3 +7,5 @@
 [AdvGAN: Generating adversarial examples with adversarial networks.](GenerativeModel-based/AdvGAN.md) *IJCAI 2018.*
 
 [Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
+
+[AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models.](GenerativeModel-based/AdvDiff.md) *Arxiv*
