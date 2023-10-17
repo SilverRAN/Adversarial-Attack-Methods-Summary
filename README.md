@@ -8,9 +8,11 @@
 ## **Generative Model-based Methods**
 [AdvGAN: Generating adversarial examples with adversarial networks.](GenerativeModel-based/AdvGAN.md) *IJCAI 2018.*
 
+[Constructing Unrestricted Adversarial Examples with Generative Models.](GenerativeModel-based/Constructing-Unrestricted-Adversarial-Examples-with-Generative-Models.md) *NeurIPS 2018.*
+
 [Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
 
-[Towards Feature Space Adversarial Attack.](GenerativeModel-based/Towards-Feature-Space-Adversarial-Attack.md) *AAAI 2021*
+[Towards Feature Space Adversarial Attack.](GenerativeModel-based/Towards-Feature-Space-Adversarial-Attack.md) *AAAI 2021.*
 
 [AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models.](GenerativeModel-based/AdvDiff.md) *Arxiv*
 
