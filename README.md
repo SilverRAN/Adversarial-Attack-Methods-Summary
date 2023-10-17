@@ -10,6 +10,8 @@
 
 [Constructing Unrestricted Adversarial Examples with Generative Models.](GenerativeModel-based/Constructing-Unrestricted-Adversarial-Examples-with-Generative-Models.md) *NeurIPS 2018.*
 
+[Generating Natural Adversarial Examples.]
+
 [Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
 
 [Towards Feature Space Adversarial Attack.](GenerativeModel-based/Towards-Feature-Space-Adversarial-Attack.md) *AAAI 2021.*
