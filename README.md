@@ -18,4 +18,6 @@
 
 [AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models.](GenerativeModel-based/AdvDiff.md) *Arxiv*
 
+[Diff-PGD: Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability.](GenerativeModel-based/Diff-PGD.md) *NeurIPS 2023.*
+
 [AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models.](GenerativeModel-based/AdvDiffuser.md) *ICCV 2023.*
