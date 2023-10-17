@@ -1,6 +1,8 @@
 # Adversarial-Attack-Methods-Summary
 
 ## **Gradient-based Methods**
+[Intriguing Properties of Neural Networks](Gradient-based/Intriguing properties of neural networks.md) *ICLR 2014.*
+
 [FGSM: Explaining and Harnessing Adversarial Examples.](Gradient-based/FGSM.md) *ICLR 2015.*
 
 ## **Generative Model-based Methods**
