@@ -10,6 +10,8 @@
 
 [Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
 
+[Towards Feature Space Adversarial Attack.](GenerativeModel-based/Towards-Feature-Space-Adversarial-Attack.md) *AAAI 2021*
+
 [AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models.](GenerativeModel-based/AdvDiff.md) *Arxiv*
 
 [AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models.](GenerativeModel-based/AdvDiffuser.md) *ICCV 2023.*
