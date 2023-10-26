@@ -23,7 +23,7 @@ Still in processing...
 
 [Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
 
-## **Generative Model-based Methods**
+## **Diffusion Model-based Methods**
 [AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models.](GenerativeModel-based/AdvDiff.md) *Arxiv*
 
 [Diff-PGD: Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability.](GenerativeModel-based/Diff-PGD.md) *NeurIPS 2023.*
