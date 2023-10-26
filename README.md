@@ -12,12 +12,12 @@ Still in processing...
 
 [AdvGAN++: Harnessing Latent Layers for Adversary Generation.](GenerativeModel-based/AdvGAN++.md) *ICCV Workshop 2019.*
 
+[Generating Natural Adversarial Examples.](GenerativeModel-based/Generating-Natural-Adversarial-Examples.md) *ICLR 2018.*
+
 ## **Generative Model-based Methods**
 [ATN: Learning to Attack: Adversarial Transformation Networks.](GenerativeModel-based/ATN.md) *AAAI 2018.*
 
 [Constructing Unrestricted Adversarial Examples with Generative Models.](GenerativeModel-based/Constructing-Unrestricted-Adversarial-Examples-with-Generative-Models.md) *NeurIPS 2018.*
-
-[Generating Natural Adversarial Examples.](GenerativeModel-based/Generating-Natural-Adversarial-Examples.md) *ICLR 2018.*
 
 [Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
 
