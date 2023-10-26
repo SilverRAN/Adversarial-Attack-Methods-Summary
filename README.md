@@ -24,8 +24,17 @@ Still in processing...
 [Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
 
 ## **Diffusion Model-based Methods**
-[AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models.](GenerativeModel-based/AdvDiff.md) *Arxiv*
+[AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models.](GenerativeModel-based/AdvDiff.md) *Arxiv.*
 
 [Diff-PGD: Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability.](GenerativeModel-based/Diff-PGD.md) *NeurIPS 2023.*
 
 [AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models.](GenerativeModel-based/AdvDiffuser.md) *ICCV 2023.*
+
+# Large-Scale Model-based Attack
+
+## **Large Vision Model-orientated**
+[Attack-sam: Towards evaluating adversarial robustness of segment anything model.](https://arxiv.org/abs/2305.00866) *Arxiv.*
+
+[Segment Anything Meets Universal Adversarial Perturbation.](https://arxiv.org/abs/2310.12431#) *Arxiv.*
+
+[Black-box Targeted Adversarial Attack on Segment Anything (SAM).](https://arxiv.org/abs/2310.10010) *Arxiv.*
