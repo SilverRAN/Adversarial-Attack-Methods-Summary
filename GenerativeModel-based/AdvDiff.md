@@ -7,7 +7,11 @@
 ### Rethinking Unrestricted Adversarial Examples
 在AC-GAN的文章中提出了Unrestricted Adversarial Examples的概念，也就是不向原始图片中添加像素扰动，而是直接从头生成一个新的样本，并且能够骗过目标分类器，即可以看成分类任务中的假阴性(False negetive)样本。过去的方法是在GAN的latent空间中添加扰动。理想情况下，产生的对抗样本与真实数据应该很难区分。但实际上，由于GAN训练所使用的数据分布 $z$ 和对抗样本所从属的分布 $z\_{adv}$ 存在差异，使用一般的GAN来生成对抗样本会显著降低其生成质量。而生成质量的好坏在Attack Success Rate(ASR)上是体现不出来的。
 
-相比之下，diffusion model具有
+相比之下，diffusion model具有更高的生成质量，并且可解释性较强。所以这里选用diffusion model作为生成网络，并向其中逐步添加对抗扰动。由于diffusion model的生成过程要经过多步采样，因此不需要像GAN一样向latent中添加过大的扰动，而只需要在每一步的过程中添加不可察觉的小扰动即可，从而保证生成结果的质量。
+
+### Adversarial Guidance
+与Classifier-guided Guidance diffusion model类似，文章将对抗梯度注入到扩散过程中，从而使模型在基于给定标签 $y$ 的同时向攻击目标 $y\_{adv}$ 靠近。
 
 
 ## 实验
+在MNIST和ImageNet数据集上进行了测试。
