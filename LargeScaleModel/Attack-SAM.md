@@ -1,7 +1,7 @@
 # Attack-SAM: Towards Attacking Segment Anything Model with Adversarial Examples
 
 ## 摘要
-文章研究了以SAM为代表的视觉基础模型面对对抗样本时的稳健性，通过基础的FGSM和PGD方法，实现了语义掩码移除和生成指定的掩码。局限性是方法没什么创新性，只是利用已有的FGSM和PGD方法在SAM上做了测试，换了个Loss函数，实验也不够充分，整体上都是white-box attack，只有cross-task部分勉强可以看成是black-box attack，此外没有测试physical world attack。
+文章研究了以SAM为代表的视觉基础模型面对对抗样本时的稳健性，通过基础的FGSM和PGD方法，实现了语义掩码移除和生成指定的掩码。局限性是方法没什么创新，只是利用已有的FGSM和PGD方法在SAM上做了测试，换了个Loss函数，实验也不够充分；整体上都是white-box attack，只有cross-task部分勉强可以看成是black-box attack；此外没有测试physical world attack。
 
 ## 方法
 ### Task definition
