@@ -31,3 +31,11 @@ Cross-Task transfer情境下，发现使用针对分类模型的对抗样本也�
 
 ## Beyond mask removel
 上述实验仅仅探讨了mask移除的目标。这里探讨了是否可能生成指定的mask，包括mask扩大、mask操纵（偏移、翻转等）以及生成指定mask。
+
+针对mask扩大，通过与mask移除类似的思路，只是将原本loss中的阈值 $Neg\_{th}$ 从负数换成正数：
+
+$$ \delta\^{*} = \mathop{\text{min}}\_{\delta \in \mathbb{S}} \parallel Clip(SAM(prompt, x\_{clean} + \delta), max=Pos\_{th}) - Pos\_{th} \parallel \^{2} $$
+
+文章发现，仅仅通过变换阈值就可以实现从mask到background以及从background到mask的转换。
+
+其中比较有意思的是实现了mask的移动、翻转和指定形状mask的生成，然而遗憾的是，正文包括附录中都没有具体介绍实现的方法和loss设计。猜测其实现方法应该就是把指定的mask当作PGD的优化target。
