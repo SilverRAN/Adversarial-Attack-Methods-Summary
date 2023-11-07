@@ -32,7 +32,7 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 
 [AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models.](GenerativeModel-based/AdvDiffuser.md) *ICCV 2023.*
 
-# Large-Scale Model-based Attack
+# Large-Scale Model Attack
 
 ## **Large Vision Model-orientated**
 [Attack-sam: Towards evaluating adversarial robustness of segment anything model.](https://arxiv.org/abs/2305.00866) *Arxiv.*
