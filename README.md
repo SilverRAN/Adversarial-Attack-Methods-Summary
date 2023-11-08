@@ -39,6 +39,6 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 ## **Large Vision Model-orientated**
 [Attack-sam: Towards evaluating adversarial robustness of segment anything model.](LargeScaleModel/Attack-SAM.md) *May 2023, Arxiv.*
 
-[Segment Anything Meets Universal Adversarial Perturbation.](https://arxiv.org/abs/2310.12431#) *Oct 2023, Arxiv.*
+[Segment Anything Meets Universal Adversarial Perturbation.](LargeScaleModel/SAM_Meets_UAP.md) *Oct 2023, Arxiv.*
 
 [Black-box Targeted Adversarial Attack on Segment Anything (SAM).](https://arxiv.org/abs/2310.10010) *OCt 2023, Arxiv.*
