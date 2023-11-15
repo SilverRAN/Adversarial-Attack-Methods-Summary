@@ -9,6 +9,8 @@ Still in processing...
 
 [SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness.](https://arxiv.org/abs/2207.12391) *ECCV 2022.*
 
+[CosPGD: an efficient white-box adversarial attack for pixel-wise prediction tasks.](https://openreview.net/forum?id=ATaE46G1eJ) *ICLR 2024.*
+
 ## **CNN-based Methods**
 [ATN: Learning to Attack: Adversarial Transformation Networks.](GenerativeModel-based/ATN.md) *AAAI 2018.*
 
