@@ -43,4 +43,4 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 
 [Segment Anything Meets Universal Adversarial Perturbation.](LargeScaleModel/SAM_Meets_UAP.md) *Oct 2023, Arxiv.*
 
-[Black-box Targeted Adversarial Attack on Segment Anything (SAM).](https://arxiv.org/abs/2310.10010) *OCt 2023, Arxiv.*
+[Black-box Targeted Adversarial Attack on Segment Anything (SAM).](LargeScaleModel/Black-box_Attack_SAM.md) *OCt 2023, Arxiv.*
