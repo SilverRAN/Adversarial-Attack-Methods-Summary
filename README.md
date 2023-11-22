@@ -29,6 +29,8 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 
 [Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
 
+[SemanticAdv: Generating Adversarial Examples via Attribute-conditioned Image Editing.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590018.pdf) *ECCV 2020.*
+
 ## **Diffusion Model-based Methods**
 [AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models.](GenerativeModel-based/AdvDiff.md) *Arxiv.*
 
