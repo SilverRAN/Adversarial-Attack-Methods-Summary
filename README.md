@@ -14,6 +14,8 @@ Still in processing...
 ## **Semantic-level Methods**
 [Semantic Adversarial Examples.](Semantic-Methods/SAE.md) *CVPR Workshop 2018.*
 
+[Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers.](Semantic-Methods/SAA.md) *ICCV 2019.*
+
 [Unrestricted Adversarial Examples via Semantic Manipulation.](Semantic-Methods/Color_Texture_Attack.md) *ICLR 2020.*
 
 [SemanticAdv: Generating Adversarial Examples via Attribute-conditioned Image Editing.](Semantic-Methods/SemanticAdv.md) *ECCV 2020.*
