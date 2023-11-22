@@ -14,9 +14,9 @@ Still in processing...
 ## **Semantic-level Methods**
 [Semantic Adversarial Examples.](Semantic-Methods/SAE.md) *CVPR Workshop 2018.*
 
-[Unrestricted Adversarial Examples via Semantic Manipulation.](GenerativeModel-based/Color_Texture_Attack.md) *ICLR 2020.*
+[Unrestricted Adversarial Examples via Semantic Manipulation.](Semantic-Methods/Color_Texture_Attack.md) *ICLR 2020.*
 
-[SemanticAdv: Generating Adversarial Examples via Attribute-conditioned Image Editing.](GenerativeModel-based/SemanticAdv.md) *ECCV 2020.*
+[SemanticAdv: Generating Adversarial Examples via Attribute-conditioned Image Editing.](Semantic-Methods/SemanticAdv.md) *ECCV 2020.*
 
 ## **CNN-based Methods**
 [ATN: Learning to Attack: Adversarial Transformation Networks.](GenerativeModel-based/ATN.md) *AAAI 2018.*
