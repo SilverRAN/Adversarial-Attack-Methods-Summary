@@ -11,6 +11,13 @@ Still in processing...
 
 [CosPGD: an efficient white-box adversarial attack for pixel-wise prediction tasks.](https://openreview.net/forum?id=ATaE46G1eJ) *ICLR 2024.*
 
+## **Semantic-level Methods**
+[Semantic Adversarial Examples.](Semantic-Methods/SAE.md) *CVPR Workshop 2018.*
+
+[Unrestricted Adversarial Examples via Semantic Manipulation.](GenerativeModel-based/Color_Texture_Attack.md) *ICLR 2020.*
+
+[SemanticAdv: Generating Adversarial Examples via Attribute-conditioned Image Editing.](GenerativeModel-based/SemanticAdv.md) *ECCV 2020.*
+
 ## **CNN-based Methods**
 [ATN: Learning to Attack: Adversarial Transformation Networks.](GenerativeModel-based/ATN.md) *AAAI 2018.*
 
@@ -28,8 +35,6 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 [Constructing Unrestricted Adversarial Examples with Generative Models.](GenerativeModel-based/Constructing-Unrestricted-Adversarial-Examples-with-Generative-Models.md) *NeurIPS 2018.*
 
 [Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
-
-[SemanticAdv: Generating Adversarial Examples via Attribute-conditioned Image Editing.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590018.pdf) *ECCV 2020.*
 
 ## **Diffusion Model-based Methods**
 [AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models.](GenerativeModel-based/AdvDiff.md) *Arxiv.*
