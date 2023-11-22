@@ -12,3 +12,6 @@
 $$ L\^{\mathcal{A}}\_{\text{tAdv}} = \alpha L\_{t}\^{\mathcal{A}} (I\_{v}, I\_{t}) + \beta J\_{adv}(\mathcal{F}(I\_{v}), t) $$
 
 其中 $L\_{t}\^{\mathcal{A}}$ 表示纹理迁移损失(texture transfer loss), $J\_{adv}$ 是一个cross-entropy损失，该损失中的 $t$ 似乎是提供纹理的源图像的类别，作者在文中提到该损失可以帮助优化过程。
+
+## 实验
+在ImageNet上随机选择了10个差异较大的class的图像进行了分类攻击测试，并且在MSCOCO数据集上随机选择图像进行了Image Captioning攻击测试。
