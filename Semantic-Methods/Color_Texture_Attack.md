@@ -1,7 +1,11 @@
 # [Unrestricted Adversarial Examples via Semantic Manipulation](https://arxiv.org/abs/1904.06347)
 
+## [Github repository](https://github.com/AI-secure/Big-but-Invisible-Adversarial-Attack)
+
 ## 总结
-通过语义操作，即改变输入图像的color和texture来实现攻击效果。虽然公开了代码，但没有提供ckpt和数据文件，而且代码非常混乱，无法复现。
+**Semantic-attack / White-box**
+
+通过语义操作，即改变输入图像的color和texture来实现攻击效果。(为什么是white-box？)
 
 ## 方法
 ### 着色攻击
