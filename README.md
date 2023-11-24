@@ -20,6 +20,8 @@ Still in processing...
 
 [SemanticAdv: Generating Adversarial Examples via Attribute-conditioned Image Editing.](Semantic-Methods/SemanticAdv.md) *ECCV 2020.*
 
+[Semantic Adversarial Attacks via Diffusion Models.](Semantic-Methods/semantic_adv_via_dm.md) *BMVC 2023.*
+
 ## **CNN-based Methods**
 [ATN: Learning to Attack: Adversarial Transformation Networks.](GenerativeModel-based/ATN.md) *AAAI 2018.*
 
