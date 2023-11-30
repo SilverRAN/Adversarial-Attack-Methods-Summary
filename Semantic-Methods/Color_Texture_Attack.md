@@ -11,7 +11,7 @@
 ### 着色攻击
 使用了一个现有的实时着色模型(Real-Time User-Guided Image Colorization with Learned Deep Priors), 通过用户点击来改变原图中的灰色区域。
 ### 纹理攻击
-详细讲述一下这部分。纹理迁移(Text Transfer)任务可以认为是风格迁徙(Style Transfer)的相似任务。据作者解释，他们所采用的方法是最小化两张图像的层间格拉姆矩阵(cross-layer gram matrices)的距离。优化 $\mathcal{Loss}$ 由两部分组成：
+纹理迁移(Text Transfer)任务可以认为是风格迁徙(Style Transfer)的相似任务。据作者解释，他们所采用的方法是最小化两张图像的层间格拉姆矩阵(cross-layer gram matrices)的距离。优化 $\mathcal{Loss}$ 由两部分组成：
 
 $$ L\^{\mathcal{A}}\_{\text{tAdv}} = \alpha L\_{t}\^{\mathcal{A}} (I\_{v}, I\_{t}) + \beta J\_{adv}(\mathcal{F}(I\_{v}), t) $$
 
