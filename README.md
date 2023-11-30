@@ -22,7 +22,7 @@ Still in processing...
 
 [Semantic Adversarial Attacks via Diffusion Models.](Semantic-Methods/semantic_adv_via_dm.md) *BMVC 2023.*
 
-[Content-based Unrestricted Adversarial Attack.](Semantic-Methods/Cont_UAA.md) *Arxiv 2023.*
+[Content-based Unrestricted Adversarial Attack.](Semantic-Methods/Cont_UAA.md) *NeurIPS 2023.*
 
 ## **CNN-based Methods**
 [ATN: Learning to Attack: Adversarial Transformation Networks.](GenerativeModel-based/ATN.md) *AAAI 2018.*
