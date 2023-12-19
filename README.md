@@ -49,6 +49,11 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 
 [AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models.](GenerativeModel-based/AdvDiffuser.md) *ICCV 2023.*
 
+## **Generating perturbations**
+[NAG: Network for Adversary Generation.](https://arxiv.org/pdf/1712.03390.pdf) *CVPR 2018.*
+
+[Playing the Game of Universal Adversarial Perturbations.](https://arxiv.org/abs/1809.07802) *Arxiv 2018.*
+
 # Large-Scale Model Attack
 
 ## **Large Vision Model-orientated**
