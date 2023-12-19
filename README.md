@@ -54,8 +54,6 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 
 [Playing the Game of Universal Adversarial Perturbations.](https://arxiv.org/abs/1809.07802) *Arxiv 2018.*
 
-[Enhancing Adversarial Example Transferability with an Intermediate Level Attack.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Enhancing_Adversarial_Example_Transferability_With_an_Intermediate_Level_Attack_ICCV_2019_paper.pdf) *ICCV 2019.*
-
 # Large-Scale Model Attack
 
 ## **Large Vision Model-orientated**
