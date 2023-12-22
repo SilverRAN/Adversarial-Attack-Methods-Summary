@@ -25,24 +25,16 @@ Still in processing...
 [Content-based Unrestricted Adversarial Attack.](Semantic-Methods/Cont_UAA.md) *NeurIPS 2023.*
 
 ## **CNN-based Methods**
-[ATN: Learning to Attack: Adversarial Transformation Networks.](GenerativeModel-based/ATN.md) *AAAI 2018.*
-
 [Towards Feature Space Adversarial Attack.](GenerativeModel-based/Towards-Feature-Space-Adversarial-Attack.md) *AAAI 2021.*
 
 Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 
 ## **GAN-based Methods**
-[AdvGAN: Generating adversarial examples with adversarial networks.](GenerativeModel-based/AdvGAN.md) *IJCAI 2018.*
-
 [Generating Natural Adversarial Examples.](GenerativeModel-based/Generating-Natural-Adversarial-Examples.md) *ICLR 2018.*
 
 [Constructing Unrestricted Adversarial Examples with Generative Models.](GenerativeModel-based/Constructing-Unrestricted-Adversarial-Examples-with-Generative-Models.md) *NeurIPS 2018.*
 
 [NAG: Network for Adversary Generation.](GenerativeModel-based/CVPR2018.md) *CVPR 2018.*
-
-[Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
-
-[AdvGAN++: Harnessing Latent Layers for Adversary Generation.](GenerativeModel-based/AdvGAN++.md) *ICCV Workshop 2019.*
 
 ## **Diffusion Model-based Methods**
 [AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models.](GenerativeModel-based/AdvDiff.md) *Arxiv.*
@@ -52,7 +44,13 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 [AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models.](GenerativeModel-based/AdvDiffuser.md) *ICCV 2023.*
 
 ## **Generating perturbations**
+[AdvGAN: Generating adversarial examples with adversarial networks.](GenerativeModel-based/AdvGAN.md) *IJCAI 2018.*
 
+[ATN: Learning to Attack: Adversarial Transformation Networks.](GenerativeModel-based/ATN.md) *AAAI 2018.*
+
+[Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
+
+[AdvGAN++: Harnessing Latent Layers for Adversary Generation.](GenerativeModel-based/AdvGAN++.md) *ICCV Workshop 2019.*
 
 # Large-Scale Model Attack
 
