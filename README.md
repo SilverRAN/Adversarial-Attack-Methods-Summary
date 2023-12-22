@@ -40,6 +40,8 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 
 [Constructing Unrestricted Adversarial Examples with Generative Models.](GenerativeModel-based/Constructing-Unrestricted-Adversarial-Examples-with-Generative-Models.md) *NeurIPS 2018.*
 
+[NAG: Network for Adversary Generation.](GenerativeModel-based/CVPR2018.md) *CVPR 2018.*
+
 [Rob-GAN: Generator, Discriminator, and Adversarial Attacker.](GenerativeModel-based/Rob-GAN.md) *CVPR 2019.*
 
 ## **Diffusion Model-based Methods**
@@ -50,9 +52,7 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 [AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models.](GenerativeModel-based/AdvDiffuser.md) *ICCV 2023.*
 
 ## **Generating perturbations**
-[NAG: Network for Adversary Generation.](https://arxiv.org/pdf/1712.03390.pdf) *CVPR 2018.*
 
-[Playing the Game of Universal Adversarial Perturbations.](https://arxiv.org/abs/1809.07802) *Arxiv 2018.*
 
 # Large-Scale Model Attack
 
