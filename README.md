@@ -52,6 +52,8 @@ Downstream-agnostic Adversarial Examples. *ICCV 2023.*
 
 [AdvGAN++: Harnessing Latent Layers for Adversary Generation.](GenerativeModel-based/AdvGAN++.md) *ICCV Workshop 2019.*
 
+Frequency-aware GAN for Adversarial Manipulation Generation. *ICCV 2023.*
+
 # Large-Scale Model Attack
 
 ## **Large Vision Model-orientated**
