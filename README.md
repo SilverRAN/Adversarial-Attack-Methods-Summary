@@ -2,6 +2,55 @@
 
 Still in processing...
 
+## ~2018
+
+| **Title** | **Publish** | **Repo** | **Paper** | **Summary** |
+|-----------|:-----------:|:--------:|:---------:|:-----------:|
+| Intriguing Properties of Neural Networks. | *ICLR 2014* | - | [![arXiv](https://img.shields.io/badge/arXiv-1312.6199-b13b1b)](https://arxiv.org/abs/1312.6199) <br /> [![ICLR](https://img.shields.io/badge/pdf-OpenReview-green)](https://openreview.net/forum?id=kklr_MTHMRQjG) | [summary](Gradient-based/Intriguing-properties-of-neural-networks.md) |
+| FGSM: Explaining and Harnessing Adversarial Examples | *ICLR 2015* | - |  | [summary](Gradient-based/FGSM.md) |
+| Semantic Adversarial Examples | *CVPRW 2018* |  |  | [summary](Semantic-Methods/SAE.md) |
+| Generating Natural Adversarial Examples | *ICLR 2018* |  |  | [summary](GenerativeModel-based/Generating-Natural-Adversarial-Examples.md) |
+| Constructing Unrestricted Adversarial Examples with Generative Models | *NeurIPS 2018* |  |  | [summary](GenerativeModel-based/Constructing-Unrestricted-Adversarial-Examples-with-Generative-Models.md) |
+| NAG: Network for Adversary Generation | *CVPR 2018* |  |  | [summary](GenerativeModel-based/CVPR2018.md) |
+| AdvGAN: Generating adversarial examples with adversarial networks | *IJCAI 2018* |  |  | [summary](GenerativeModel-based/AdvGAN.md) |
+| ATN: Learning to Attack: Adversarial Transformation Networks | *AAAI 2018* |  |  | [summary](GenerativeModel-based/AAAI2018.md) |
+
+## 2019
+| **Title** | **Publish** | **Repo** | **Paper** | **Summary** |
+|-----------|:-----------:|:--------:|:---------:|:-----------:|
+| Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers | *ICCV* |  |  | [summary](Semantic-Methods/SAA.md) |
+| Rob-GAN: Generator, Discriminator, and Adversarial Attacker | *CVPR* |  |  | [summary](GenerativeModel-based/Rob-GAN.md) |
+| AdvGAN++: Harnessing Latent Layers for Adversary Generation | *CVPRW* |  |  | [summary](GenerativeModel-based/AdvGAN++.md) |
+
+## 2020
+| **Title** | **Publish** | **Repo** | **Paper** | **Summary** |
+|-----------|:-----------:|:--------:|:---------:|:-----------:|
+| Unrestricted Adversarial Examples via Semantic Manipulation | *ICLR* |  |  | [summary](Semantic-Methods/Color_Texture_Attack.md) |
+| SemanticAdv: Generating Adversarial Examples via Attribute-conditioned Image Editing | *ECCV* |  |  | [summary](Semantic-Methods/SemanticAdv.md) |
+
+## 2021
+| **Title** | **Publish** | **Repo** | **Paper** | **Summary** |
+|-----------|:-----------:|:--------:|:---------:|:-----------:|
+| Towards Feature Space Adversarial Attack | *AAAI* |  |  | [summary]((GenerativeModel-based/Towards-Feature-Space-Adversarial-Attack.md)) |
+
+## 2022
+| **Title** | **Publish** | **Repo** | **Paper** | **Summary** |
+|-----------|:-----------:|:--------:|:---------:|:-----------:|
+| SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness | *ECCV* |  | [![arXiv](https://img.shields.io/badge/arXiv-2207.12391-b13b1b)](https://arxiv.org/abs/2207.12391) |  |
+| Sparse Black-Box Video Attack with Reinforcement Learning | *IJCV* |  | [![Springer](https://img.shields.io/badge/pdf-Spinger-orange)](https://link.springer.com/article/10.1007/s11263-022-01604-w) |  |
+| Attacking Video Recognition Models with Bullet-Screen Comments | *AAAI* |  | [![arXiv](https://img.shields.io/badge/arXiv-2110.15629-b13b1b)](https://arxiv.org/abs/2110.15629) <br /> [![aaai](https://img.shields.io/badge/aaai-org-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/19907) |  |
+
+## 2023
+| **Title** | **Publish** | **Repo** | **Paper** | **Summary** |
+|-----------|:-----------:|:--------:|:---------:|:-----------:|
+| Semantic Adversarial Attacks via Diffusion Models | *BMVC* |  |  | [summary](Semantic-Methods/semantic_adv_via_dm.md) |
+| Content-based Unrestricted Adversarial Attack | *NeurIPS* |  |  | [summary](Semantic-Methods/Cont_UAA.md) |
+| Downstream-agnostic Adversarial Examples | *ICCV* |  |  |  |
+| AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models |  |  |  | [summary](GenerativeModel-based/AdvDiff.md) |
+| Diff-PGD: Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability | *NeurIPS* |  |  | [summary](GenerativeModel-based/Diff-PGD.md) |
+| AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models | *ICCV* |  |  [![arxiv](https://img.shields.io/badge/arXiv-2307.12499-b13b1b)](https://arxiv.org/abs/2307.12499) <br /> [![iccv](https://img.shields.io/badge/pdf-thecvf-7395C5)](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_AdvDiffuser_Natural_Adversarial_Example_Synthesis_with_Diffusion_Models_ICCV_2023_paper.html) | [summary](GenerativeModel-based/AdvDiffuser.md) |
+| Frequency-aware GAN for Adversarial Manipulation Generation | *ICCV* |  | [![iccv](https://img.shields.io/badge/pdf-thecvf-7395C5)](https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_Frequency-aware_GAN_for_Adversarial_Manipulation_Generation_ICCV_2023_paper.html) |  |
+
 ## **Gradient-based Methods**
 [Intriguing Properties of Neural Networks.](Gradient-based/Intriguing-properties-of-neural-networks.md) *ICLR 2014.*
 
