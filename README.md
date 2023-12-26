@@ -46,8 +46,8 @@ Still in processing...
 | Semantic Adversarial Attacks via Diffusion Models | *BMVC* |  |  | [summary](Semantic-Methods/semantic_adv_via_dm.md) |
 | Content-based Unrestricted Adversarial Attack | *NeurIPS* |  |  | [summary](Semantic-Methods/Cont_UAA.md) |
 | Downstream-agnostic Adversarial Examples | *ICCV* |  |  |  |
-| AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models |  |  |  | [summary](GenerativeModel-based/AdvDiff.md) |
-| Diff-PGD: Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability | *NeurIPS* |  |  | [summary](GenerativeModel-based/Diff-PGD.md) |
+| AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models | - | [![Github](https://img.shields.io/github/stars/EricDai0/advdiff)](https://github.com/EricDai0/advdiff) | [![arxiv](https://img.shields.io/badge/arXiv-2307.12499-b13b1b)](https://arxiv.org/abs/2307.12499) | [summary](GenerativeModel-based/AdvDiff.md) |
+| Diff-PGD: Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability | *NeurIPS* | [![Github](https://img.shields.io/github/stars/xavihart/Diff-PGD)](https://github.com/xavihart/Diff-PGD) |  | [summary](GenerativeModel-based/Diff-PGD.md) |
 | AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models | *ICCV* |  |  [![arxiv](https://img.shields.io/badge/arXiv-2307.12499-b13b1b)](https://arxiv.org/abs/2307.12499) <br /> [![iccv](https://img.shields.io/badge/pdf-thecvf-7395C5)](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_AdvDiffuser_Natural_Adversarial_Example_Synthesis_with_Diffusion_Models_ICCV_2023_paper.html) | [summary](GenerativeModel-based/AdvDiffuser.md) |
 | Frequency-aware GAN for Adversarial Manipulation Generation | *ICCV* |  | [![iccv](https://img.shields.io/badge/pdf-thecvf-7395C5)](https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_Frequency-aware_GAN_for_Adversarial_Manipulation_Generation_ICCV_2023_paper.html) |  |
 
