@@ -12,8 +12,8 @@ Still in processing...
 | Generating Natural Adversarial Examples | *ICLR 2018* |  |  | [summary](GenerativeModel-based/Generating-Natural-Adversarial-Examples.md) |
 | Constructing Unrestricted Adversarial Examples with Generative Models | *NeurIPS 2018* |  |  | [summary](GenerativeModel-based/Constructing-Unrestricted-Adversarial-Examples-with-Generative-Models.md) |
 | NAG: Network for Adversary Generation | *CVPR 2018* |  |  | [summary](GenerativeModel-based/CVPR2018.md) |
-| AdvGAN: Generating adversarial examples with adversarial networks | *IJCAI 2018* |  |  | [summary](GenerativeModel-based/AdvGAN.md) |
-| ATN: Learning to Attack: Adversarial Transformation Networks | *AAAI 2018* |  |  | [summary](GenerativeModel-based/AAAI2018.md) |
+| AdvGAN: Generating adversarial examples with adversarial networks | *IJCAI 2018* | [![Github](https://img.shields.io/github/stars/mathcbc/advGAN_pytorch)](https://github.com/mathcbc/advGAN_pytorch) | [![arxiv](https://img.shields.io/badge/arXiv-1801.02610-b13b1b)](https://arxiv.org/abs/1801.02610) <br /> [![ijcai](https://img.shields.io/badge/pdf-ijcai-navy)](https://www.ijcai.org/proceedings/2018/0543) | [summary](GenerativeModel-based/AdvGAN.md) |
+| ATN: Learning to Attack: Adversarial Transformation Networks | *AAAI 2018* | [![Github](https://img.shields.io/github/stars/RanTaimu/Adversarial-Transformation-Network)](https://github.com/RanTaimu/Adversarial-Transformation-Network) | [![arixv](https://img.shields.io/badge/arXiv-1703.09387-b13b1b)](https://arxiv.org/abs/1703.09387) <br /> [![aaai](https://img.shields.io/badge/aaai-org-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11672) | [summary](GenerativeModel-based/AAAI2018.md) |
 
 ## 2019
 | **Title** | **Publish** | **Repo** | **Paper** | **Summary** |
@@ -31,7 +31,7 @@ Still in processing...
 ## 2021
 | **Title** | **Publish** | **Repo** | **Paper** | **Summary** |
 |-----------|:-----------:|:--------:|:---------:|:-----------:|
-| Towards Feature Space Adversarial Attack | *AAAI* |  |  | [summary]((GenerativeModel-based/Towards-Feature-Space-Adversarial-Attack.md)) |
+| Towards Feature Space Adversarial Attack | ** |  |  | [summary]((GenerativeModel-based/Towards-Feature-Space-Adversarial-Attack.md)) |
 
 ## 2022
 | **Title** | **Publish** | **Repo** | **Paper** | **Summary** |
