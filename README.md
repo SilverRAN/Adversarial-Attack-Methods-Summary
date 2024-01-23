@@ -9,6 +9,7 @@ Still in processing...
 | Intriguing Properties of Neural Networks. | *ICLR 2014* | - | [![arXiv](https://img.shields.io/badge/arXiv-1312.6199-b13b1b)](https://arxiv.org/abs/1312.6199) <br /> [![ICLR](https://img.shields.io/badge/pdf-OpenReview-green)](https://openreview.net/forum?id=kklr_MTHMRQjG) | [summary](Gradient-based/Intriguing-properties-of-neural-networks.md) |
 | FGSM: Explaining and Harnessing Adversarial Examples | *ICLR 2015* | - |  | [summary](Gradient-based/FGSM.md) |
 | Semantic Adversarial Examples | *CVPRW 2018* |  |  | [summary](Semantic-Methods/SAE.md) |
+| Towards Deep Learning Models Resistant to Adversarial Attacks | *ICLR 2018* |  | [![arXiv](https://img.shields.io/badge/arXiv-1706.06083-b13b1b)](https://arxiv.org/abs/1706.06083) | - |
 | Generating Natural Adversarial Examples | *ICLR 2018* |  |  | [summary](GenerativeModel-based/Generating-Natural-Adversarial-Examples.md) |
 | Constructing Unrestricted Adversarial Examples with Generative Models | *NeurIPS 2018* |  |  | [summary](GenerativeModel-based/Constructing-Unrestricted-Adversarial-Examples-with-Generative-Models.md) |
 | NAG: Network for Adversary Generation | *CVPR 2018* |  |  | [summary](GenerativeModel-based/CVPR2018.md) |
