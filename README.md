@@ -1,7 +1,7 @@
 # Adversarial-Attack-Methods-Summary
 
 ## News
-🔥[2024-07-04] Papers of CVPR 2024 have been updated!
+🔥[2024-07-04] Papers of CVPR 2024 have been updated [here](2024/CVPR/Readme.md)!
 
 ## 2024
 | **Title** | **Publish** | **Repo** | **Paper** | **Summary** |
