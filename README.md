@@ -13,6 +13,7 @@
 | Frequency-aware GAN for Adversarial Manipulation Generation | *ICCV* | - | [![iccv](https://img.shields.io/badge/pdf-thecvf-7395C5)](https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_Frequency-aware_GAN_for_Adversarial_Manipulation_Generation_ICCV_2023_paper.html) |  |
 | AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models | - | [![Github](https://img.shields.io/github/stars/EricDai0/advdiff)](https://github.com/EricDai0/advdiff) | [![arxiv](https://img.shields.io/badge/arXiv-2307.12499-b13b1b)](https://arxiv.org/abs/2307.12499) | [summary](GenerativeModel-based/AdvDiff.md) |
 | Diffusion Models for Imperceptible and Transferable Adversarial Attack | - | [![Github](https://img.shields.io/github/stars/WindVChen/DiffAttack)](https://github.com/WindVChen/DiffAttack) | [![arxiv](https://img.shields.io/badge/arXiv-2305.08192-b13b1b)](https://arxiv.org/abs/2305.08192) |  |
+| Improving Adversarial Transferability by Stable Diffusion | - | - | [![arxiv](https://img.shields.io/badge/arXiv-2311.11017-b13b1b)](https://arxiv.org/abs/2311.11017) |
 | Semantic Adversarial Attacks via Diffusion Models | *BMVC* | [![Github](https://img.shields.io/github/stars/steven202/semantic_adv_via_dm)](https://github.com/steven202/semantic_adv_via_dm) | [![arixv](https://img.shields.io/badge/arXiv-2309.07398-b13b1b)](https://arxiv.org/abs/2309.07398) | [summary](Semantic-Methods/semantic_adv_via_dm.md) |
 
 ## 2022
