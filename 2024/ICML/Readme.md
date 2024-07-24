@@ -1,4 +1,4 @@
-| **Title** | **Publisher** | **Repo** | **Paper** | **Key words** |
+| **Title** | **Category** | **Repo** | **Paper** | **Key words** |
 |-----------|:-----------:|:--------:|:---------:|:-----------:|
 | Online Matching with Stochastic Rewards: Provable Better Bound via Adversarial Reinforcement Learning | **Oral** | - | [![icml](https://img.shields.io/badge/pdf-PMLR-3333CC)](https://proceedings.mlr.press/v235/zhang24bf.html) | - |
 | Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models | **Oral** | [![Github](https://img.shields.io/github/stars/chs20/RobustVLM)](https://github.com/chs20/RobustVLM) | [![icml](https://img.shields.io/badge/pdf-PMLR-3333CC)](https://proceedings.mlr.press/v235/schlarmann24a.html) | - |
